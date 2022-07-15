@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EStefkov
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on everything that can give me some more experience.
 - 📫 How to reach me  estefkov1996@gmail.com
 
