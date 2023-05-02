@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EStefkov
-- 👀 I’m interested in Blockchain developer
+- 👀 I’m interested in Blockchain developer position
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on everything that can give me some more experience.
 - 📫 How to reach me  estefkov1996@gmail.com
