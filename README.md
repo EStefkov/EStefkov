@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-i've been learning to code for 2 years in university. I started with c++ and c#.
+i've been learning to code for 2 years in university. I started with c++.
 
 * 🌍  I'm based in Ruse/Dobrich/Varna, Bulgaria
 * ✉️  You can contact me at [estefkov1996@gmail.com](mailto:estefkov1996@gmail.com)
