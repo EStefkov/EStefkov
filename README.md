@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Devoloper
 -------
 
-Ex bartender and dj.3-th year undergraduate studying Software Engineering.
+Ex bartender and dj.4-th year undergraduate studying Software Engineering.
 
 
 * 🌍  I'm based in Ruse/Dobrich/Varna, Bulgaria
