@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Emiliyan Stefkov
 ========================================================================================================================================
 
-Student
+Backend Devoloper
 -------
 
 Ex bartender and dj.3-th year undergraduate studying Software Engineering.
+
 
 * 🌍  I'm based in Ruse/Dobrich/Varna, Bulgaria
 * ✉️  You can contact me at [estefkov1996@gmail.com](mailto:estefkov1996@gmail.com)
