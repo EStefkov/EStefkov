@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Devoloper
 -------
 
-Ex bartender and dj.4-th year undergraduate studying Software Engineering.
+Ex bartender, graduated Software Engineer.
 
 
-* 🌍  I'm based in Ruse/Dobrich/Varna, Bulgaria
+* 🌍  I'm based in Dobrich/Varna, Bulgaria
 * ✉️  You can contact me at [estefkov1996@gmail.com](mailto:estefkov1996@gmail.com)
-* 🧠  I'm learning JS, React & Solidity
+* 🧠  Currently working on Qr system
 
 ### Skills
 
