@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Backend Devoloper
--------
+------------------------------
 
 Ex bartender, graduated Software Engineer.
 
@@ -14,19 +14,13 @@ Ex bartender, graduated Software Engineer.
 ## 🧩 Tech Stack
 
 ##### Backend: Java, Node.js, Express.js
-------------------------------
 ##### Frontend: JavaScript, React, Next.js, HTML, CSS
------------------------------
 ##### Databases: PostgreSQL, MySQL, MongoDB
-------------------------------
 ##### DevOps / Infrastructure (Learning): Docker, Kubernetes, Jenkins, AWS, Azure
-------------------------------
 ##### Other Languages: C#, C++, Solidity
-------------------------------
 ##### Web3: MetaMask, Ethereum basics
-------------------------------
 ##### Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code, 
-
+------------------------------
 
 ### Socials
 
