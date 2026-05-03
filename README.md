@@ -19,13 +19,13 @@ Ex bartender, graduated Software Engineer.
 -----------------------------
 ##### Databases: PostgreSQL, MySQL, MongoDB
 ------------------------------
-##### DevOps / Infrastructure (Learning): Docker, Kubernetes, Jenkins
+##### DevOps / Infrastructure (Learning): Docker, Kubernetes, Jenkins, AWS, Azure
 ------------------------------
 ##### Other Languages: C#, C++, Solidity
 ------------------------------
 ##### Web3: MetaMask, Ethereum basics
 ------------------------------
-##### Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code
+##### Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code, 
 
 
 ### Socials
